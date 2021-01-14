@@ -1,0 +1,71 @@
+[
+    {
+"id":1,
+"title":"Carrots",
+"description":"Carrot is a root vegetable, usually orange in colour.",
+"cost":"Ksh 50"
+    },
+    {
+        "id":2,
+        "title":"Cucumbers",
+        "description":"A long, green-skinned fruit with watery flesh, usually eaten raw in salads ",
+        "cost":"Ksh 90"
+    },
+    {
+        "id":3,
+        "title":"Avocadoes",
+        "description":"A pear-shaped fruit with a rough leathery skin and smooth, oily edible flesh",
+        "cost":"Ksh 100"
+    },
+    {
+        "id":4,
+        "title":"Spinach",
+        "description":"Large dark green leaves which are widely eaten as a vegetable",
+        "cost":"Ksh 50"
+    },
+    {
+        "id":5,
+        "title":"Tomatoes",
+        "description":"A glossy red, or occasionally yellow, pulpy edible fruit that is eaten as a vegetable or in salad.",
+        "cost":"Ksh 200"
+    },
+    {
+        "id":6,
+        "title":"Broccoli",
+    "description":"Edible green plant in the cabbage family  whose large flowering head, stalk and small associated leaves are eaten as a vegetable.",
+    "cost":"Ksh 250"
+    },
+    {
+       "id":7,
+       "title":"Lemons",
+       "description":"A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice.",
+       "cost":"Ksh 100"
+    },
+    {
+        "id":8,
+        "title":"Onions",
+        "description":"A swollen edible bulb used as a vegetable.",
+        "cost":"Ksh 100"   
+    },
+    {
+        "id":9,
+        "title":"Ginger",
+        "description":"A hot, fragrant spice made from the rhizome of a plant, which may be chopped or powdered for cooking, preserved in syrup, or candied.",
+        "cost":"Ksh 100"   
+    },
+    {
+        "id":10,
+        "title":"Sweet potatoes",
+        "description":"an edible tropical tuber with white slightly sweet flesh.",
+        "cost":"Ksh 400"   
+    },
+    {
+        "id":11,
+        "title":"Peanuts",
+        "description":"The oval seed of a tropical South American plant, often roasted and salted and eaten as a snack.",
+        "cost":"Ksh 400"   
+
+    }
+
+
+]
